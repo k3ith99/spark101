@@ -2,7 +2,7 @@
 
 ## Project goal
 Simple usage of pyspark to answer questions below:
-Who are the winners of the Serie A in the last decade?
+* Who are the winners of the Serie A in the last decade?
 Which teams have been relegated in the past 10 years?
 Does Winter affect the performance of Bundesliga?
 Which season of Serie A was the most competitive in the last decade?
