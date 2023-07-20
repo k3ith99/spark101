@@ -3,10 +3,10 @@
 ## Project goal
 Simple usage of pyspark to answer questions below:
 * Who are the winners of the Serie A in the last decade?
-Which teams have been relegated in the past 10 years?
-Does Winter affect the performance of Bundesliga?
-Which season of Serie A was the most competitive in the last decade?
-What's the best month to watch Serie A
+* Which teams have been relegated in the past 10 years?
+* Does Winter affect the performance of Serie A?
+* Which season of Serie A was the most competitive in the last decade?
+* What's the best month to watch Serie A
 ## Installation & Usage
 
 1. Ensure Pipenv and python is installed
@@ -29,3 +29,6 @@ What's the best month to watch Serie A
 
 
 ## Fixed Bugs
+
+## Future improvements
+* Find other ways to show how winter affects the performance of the Serie A teams or best month to watch Serie A
