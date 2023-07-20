@@ -13,6 +13,8 @@ findspark = "*"
 pandas = "*"
 np = "*"
 lxml = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
